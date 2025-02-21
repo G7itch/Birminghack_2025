@@ -1,0 +1,2 @@
+https://python-sounddevice.readthedocs.io/en/0.5.1/usage.html
+https://n2how.com/2024/10/14/introduction-to-rtty-a-guide-to-getting-started/
